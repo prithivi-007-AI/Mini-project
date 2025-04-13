@@ -72,5 +72,24 @@ The **AI Study Planner** is a Python-based application designed to help students
 **Use To-Do List**
 
 **Follow daily tasks and mark them as completed.**
+
 **Track Your Progress**
+
 **View completion percentage and finished topics.**
+
+## 🔮 Future Enhancements
+
+- 📚 **Subject-based topic categorization**  
+  Group and filter topics by subject or category for better organization.
+
+- 🧠 **Spaced repetition algorithm integration**  
+  Optimize long-term memory retention using proven learning techniques.
+
+- ☁️ **Cloud sync and cross-device support**  
+  Access your study planner from multiple devices seamlessly.
+
+- 🧩 **Machine learning for automatic topic clustering**  
+  Automatically group similar topics to help structure your study plan.
+
+- 📱 **Mobile version for Android/iOS**  
+  Develop a cross-platform mobile app version for convenient studying on the go.
